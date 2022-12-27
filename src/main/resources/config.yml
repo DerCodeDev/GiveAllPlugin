@@ -1,0 +1,15 @@
+# GiveAll-Plugin by DerCodeDev | Samir
+
+# Placeholder
+# %TYPENAME% gibt den Type-Namen vom Item aus, wenn kein DisplayName vorhanden ist.
+# %DISPLAYNAME% git den DisplayName vom Item aus.
+Messages:
+  Prefix: "&8[&bGiveAll&8] "
+  NoConsole: "&cYou must be a Player."
+  NoPermissions: "&cDazu hast du keine Rechte!"
+  NoItemInHand: "&cDu musst ein Item in der Hand halten."
+  GiveItemWithType: "&aAlle haben das Item &e%TYPENAME% &abekommen."
+  GiveItemWithDisplayName: "&aAlle haben das Item &e%DISPLAYNAME% &abekommen."
+  Usage: "&cNutze: /giveall" 
+    
+Permission: "giveall.use"

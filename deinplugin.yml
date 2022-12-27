@@ -1,0 +1,17 @@
+specVersion: 1
+type: plugin
+name: GiveAllPlugin
+authors:
+  - DerCodeDev
+supportedGameVersions: ^1.8
+category: misc
+introduction: Ein Plugin, um allen Onlinespielern Items zu geben.
+icon: https://iili.io/HTnSkAl.png
+description: |
+  # Überblick
+  Das Plugin dient dazu, um allen Spieler auf dem Server gleichzeitig Items zu geben.
+  
+  # Nutzung
+  Item in der Hand halten und /giveall ausführen.
+  Alle Nachrichten und Permissions sind in der config.yml editierbar.
+  

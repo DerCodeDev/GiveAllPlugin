@@ -1,0 +1,7 @@
+name: GiveAllPlugin
+author: Samir
+version: 1.0
+main: de.samir.giveall.GiveAllPlugin
+
+commands:
+  giveall:
